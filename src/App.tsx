@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -19,8 +19,16 @@ function App() {
           Learn React
         </a>
       </header>
-      <div>asldk <p>asd12783812 <p>askdhn</p></p></div>
+      <div>
+        asldk{" "}
+        <p>
+          asd12783812 <p>askdhn</p>
+        </p>
+      </div>
       <a href=""> sadasdasd</a>
+      <span>
+        123123 <span>898</span>
+      </span>
     </div>
   );
 }
